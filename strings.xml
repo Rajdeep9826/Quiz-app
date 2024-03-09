@@ -1,0 +1,64 @@
+<resources>
+
+    <string-array name="questions">
+        <item>What is the capital of France?</item>
+        <item>What is 2 + 2?</item>
+        <item>Who wrote \'Hamlet\'?</item>
+        <item>Who is the founder of facebook?</item>
+        <item>Who is the CEO of Google?</item>
+
+
+    </string-array>
+
+    <string name="MyApplication">QuizApp</string>
+    <string name="question1">What is the capital of France?</string>
+    <string-array name="question1_options">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+    </string-array>
+    <string name="question1_answer">Paris</string>
+
+    <string name="question2">What is 2 + 2?</string>
+    <string-array name="question2_options">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="question2_answer">4</string>
+
+    <string name="question3">Who wrote \'Hamlet\'?</string>
+    <string-array name="question3_options">
+        <item>Shakespeare</item>
+        <item>Dickens</item>
+        <item>Twain</item>
+        <item>Hemingway</item>
+    </string-array>
+    <string name="question3_answer">Shakespeare</string>
+
+
+    <string name="question4">Who is the founder of facebook?</string>
+    <string-array name="question4_options">
+        <item>Bill gates</item>
+        <item>Mark Zuckerberg</item>
+        <item>Twain</item>
+        <item>Hemingway</item>
+
+    </string-array>
+    <string name="question4_answer">Mark Zuckerberg</string>
+
+
+    <string name="question5">Who is the CEO of Google?</string>
+    <string-array name="question5_options">
+        <item>Bill gates</item>
+        <item>Sundar Pichai</item>
+        <item>Twain</item>
+        <item>Sergey Brin</item>
+
+    </string-array>
+    <string name="question5_answer">Sundar Pichai</string>
+
+
+</resources>
